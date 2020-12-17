@@ -6,8 +6,11 @@
 -interactivite des users (user actif)
 -on peut faire la comparaison par rapport l'année dernier 
 
-Plusieur Page 
+Plusieurs Pages 
 Page 1 : accueil 
 page 2 : Users 
-  -nom,ber 
-  -genre 
+  -nombre d'utilisateur  
+  - genre des utilisateur
+  - tranche d'age des utilisateur
+  - nombre de connexion 
+  - durée des connexion
