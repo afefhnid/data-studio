@@ -12,7 +12,7 @@ Pour faire ce tableau de bord nous avons utiliser plusieurs support.
 Ces cours nous on permit d'apprendre les bases de Data Studio grâce à des vidéo et des démonstration guidées. 
 Nous avons obtenue toutes les deux le certificat Google : 
 Hnid Afef -> ![Certificat Google Hnid](Course_Certificate_Hnid.pdf)
-Lopes Correia Audrey ->![Certificat Google Hnid](Dragster.jpg)
+Lopes Correia Audrey ->![Certificat Google Hnid](Course_Certificate_Lopes.pdf)
 - Cours : https://audreytips.com/6-rapports-google-analytics-suivre-regulierement/
 - Choix des graphiques :https://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf
 - Vidéo Youtube : https://www.youtube.com/watch?v=4xmyomDMnnc
