@@ -10,9 +10,9 @@ Nous avons choisit cette sources de donnée pour plusieurs raisons. Tout d'abbor
 Pour faire ce tableau de bord nous avons utiliser plusieurs support. 
 - Cours : 
 Ces cours nous on permit d'apprendre les bases de Data Studio grâce à des vidéo et des démonstration guidées. 
-Nous avons obtenue toutes les deux le certificat Google : 
-Hnid Afef -> ![Certificat Google Hnid](Course_Certificate_Hnid.pdf)
-Lopes Correia Audrey ->![Certificat Google Hnid](Course_Certificate_Lopes.pdf)
+Nous avons obtenue toutes les deux le certificat Google : <br/>
+Hnid Afef -> ![Certificat Google Hnid](Course_Certificate_Hnid.pdf)<br/>
+Lopes Correia Audrey ->![Certificat Google Lopes](Course_Certificate_Lopes.pdf)<br/><br/>
 - Cours : https://audreytips.com/6-rapports-google-analytics-suivre-regulierement/
 - Choix des graphiques :https://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf
 - Vidéo Youtube : https://www.youtube.com/watch?v=4xmyomDMnnc
