@@ -50,4 +50,9 @@ Un graphique pour voir le pourcentage d'utilisateur par appareils de connexion<b
 Carte mettant en évidence les pays où il y a le plus de sessions<br/><br/>
 
 ### Page 3 : Le chiffre d'affaire ###
-
+- Accusions : Quelles chiffres d’affaires on fait pour chaque chose de trafic ?
+Sources de trafics
+Taux de Rebond 
+Transactions (chiffre d’affaires associées )
+Taux de Conversion 
+- Chiffres d’affaires clés 
