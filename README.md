@@ -9,7 +9,7 @@ Nous avons choisit cette sources de donnée pour plusieurs raisons. Tout d'abbor
 ## Quelles sources nous ont inspirés ? 
 Pour faire ce tableau de bord nous avons utiliser plusieurs support. 
 - Cours : 
-Ces cours nous on permit d'apprendre les bases de Data Studio grâce à des vidéo et des démonstration guidées. 
+Ces cours nous on permit d'apprendre les bases de Data Studio grâce à des vidéo et des démonstration guidées. <br/>
 Nous avons obtenue toutes les deux le certificat Google : <br/>
 Hnid Afef -> ![Certificat Google Hnid](Course_Certificate_Hnid.pdf)<br/>
 Lopes Correia Audrey ->![Certificat Google Lopes](Course_Certificate_Lopes.pdf)<br/><br/>
