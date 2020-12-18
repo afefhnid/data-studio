@@ -8,14 +8,24 @@ Nous avons choisit cette sources de donnée pour plusieurs raisons. Tout d'abbor
 
 ## Quelles sources nous ont inspirés ? 
 Pour faire ce tableau de bord nous avons utiliser plusieurs support. 
-- Cours : 
+- Cours : <br/>
 Ces cours nous on permit d'apprendre les bases de Data Studio grâce à des vidéo et des démonstration guidées. <br/>
 Nous avons obtenue toutes les deux le certificat Google : <br/>
 Hnid Afef -> ![Certificat Google Hnid](Course_Certificate_Hnid.pdf)<br/>
 Lopes Correia Audrey ->![Certificat Google Lopes](Course_Certificate_Lopes.pdf)<br/><br/>
-- Cours : https://audreytips.com/6-rapports-google-analytics-suivre-regulierement/
-- Choix des graphiques :https://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf
-- Vidéo Youtube : https://www.youtube.com/watch?v=4xmyomDMnnc
+
+Après ces cours nous avons pu nous entrainer en regardant différents tuto pour ce familiariser avec l'outils : <br/>
+- https://www.youtube.com/watch?v=FkxaBRiXlVc&t=298s <br/>
+- https://www.youtube.com/watch?v=4xmyomDMnnc <br/>
+
+Ensuite nous nous sommes lancé sur la réalisation de notre propre Dashboard: <br/>
+- https://audreytips.com/6-rapports-google-analytics-suivre-regulierement/<br/>
+Ce site nous a permit de voir quelles informations étaient importantes et pertinante pour piloter des actions de Marketing Digital.<br/><br/>
+
+Une fois ces informations en tête nous avons chercher comment afficher telle et telle information grace a ce document: <br/>
+- Choix des graphiques :https://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf<br/><br/>
+
+Une fois nos graphiques choisit nous avons cherché des visuels afin de rentre notre tableau plus facile et agréable à lire pour nos utilisateurs.
 - Visuel : https://datastudio.google.com/u/0/reporting/0B7DzXzcpJXnzVDAtY2hRQmFTLWs/page/JpUB
 - Visuel : https://datastudio.google.com/u/0/reporting/0B0ZdHFnAfhxvWjNWMHZGQko5N1k/page/EJDE
 
