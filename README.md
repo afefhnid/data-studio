@@ -31,7 +31,7 @@ Une fois nos graphiques choisit nous avons cherché des visuels afin de rendre n
 - Visuel : https://datastudio.google.com/u/0/reporting/0B0ZdHFnAfhxvWjNWMHZGQko5N1k/page/EJDE
 
 ## Qu'est ce que nous montre le tableau de bord ? 
-Lien pour notre dashboard : https://datastudio.google.com/reporting/37844537-353d-436c-bf9a-7962c12364c1
+Lien pour notre dashboard : https://datastudio.google.com/reporting/37844537-353d-436c-bf9a-7962c12364c1 <br/>
 Nous avons décidé de séparer notre tableau en différentes pages. Chaques pages ayant un objectif différent: 
 
 ### Page 1 : Accueil ###
