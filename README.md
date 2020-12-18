@@ -8,7 +8,7 @@ Nous avons choisit cette sources de donnée pour plusieurs raisons. Tout d'abbor
 
 ## Quelles sources nous ont inspirés ? 
 Pour faire ce tableau de bord nous avons utiliser plusieurs support. 
-- Cours : <br/>
+- Cours : https://analytics.google.com/analytics/academy/course/10/unit/1/lesson/3 <br/>
 Ces cours nous on permit d'apprendre les bases de Data Studio grâce à des vidéo et des démonstration guidées. <br/>
 Nous avons obtenue toutes les deux le certificat Google : <br/>
 Hnid Afef -> ![Certificat Google Hnid](Course_Certificate_Hnid.pdf)<br/>
@@ -30,13 +30,15 @@ Une fois nos graphiques choisit nous avons cherché des visuels afin de rentre n
 - Visuel : https://datastudio.google.com/u/0/reporting/0B0ZdHFnAfhxvWjNWMHZGQko5N1k/page/EJDE
 
 ## Qu'est ce que nous montre le tableau de bord ? 
+Nous avons décider de séparer notre tableau en différentes pages. Chaque pages ayant un objectif différent: 
 
-Plusieurs Pages 
-Page 1 : accueil 
-page 2 : Users 
-  -nombre d'utilisateur  
-  - genre des utilisateur
-  - tranche d'age des utilisateur
-  - nombre de connexion 
-  - durée des connexion
+### Page 1 : Accueil ###
+Sources de traffic : Permet de voir en pourcentage comment les visiteurs arrive sur le site<br/>
+Tentance des sessions : Permet de voir le nombre de session par date par rapport à l'année précédente<br/>
+Chiffres clés ainsi que leurs evolutions par rapport à l'année N-1<br/>
+Carte mettant en éffidance les pays où il y a le plus de sessions<br/><br/>
+
+### Page 2 : Les utilisateurs ###
+
+### Page 3 : Le chiffre d'affaire ###
 
